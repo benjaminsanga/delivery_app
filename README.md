@@ -1,2 +1,2 @@
 # delivery_app
-Built for an efficient package delivery system.
+For an efficient package delivery system.
