@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 # delivery_app
-Built for an efficient package delivery system.
+<<<<<<< HEAD
+For an efficient package delivery system.
 =======
 # Getting Started with Create React App
 
@@ -73,3 +74,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 >>>>>>> Initialize project using Create React App
+=======
+For an efficient package delivery system.
+>>>>>>> 504e343ef2c078bc7d499825788571866a869eb3
